@@ -45,5 +45,17 @@ i presume the polish system is just a shader however have not verified this
 
 ### 2.2 MP information
 
+using unity explorer and clicking on a physics prop with the mouse pointer feature will resault in its parent to be called "Boolean result" i assume this is because the way it spawns is a tickbox in unity but i am no expert
+
+if you untick your physics base with unity explorer you get a very weird effect that can bee seen by other players
+
+if you delete the physics base of another player their arms and bubble will move but the torso and legs will stay there
+
+you can delete the barriers of a cage and go into a match that is currently running (i have trolled people with this many times)
+
+if you go through the entrance door of both cages in the twins map you can be in two fights at the same time
+
+i do not know how to spawn things. this is because i have little to no knowledge about the unity engine, take everything here with a large heaping of salt 
+
 
 
