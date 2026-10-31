@@ -1,6 +1,6 @@
 this is a GitHub repository compiling all of the information that i have learned about underdogs and how to use the tools that i used
 
-
+if you have any information that you would like to add to this then please make an issue on the github page. there is prob a better way to do this but i dont know how 
 
 all image credits go to their respective owners (pls dont sue me)
 
