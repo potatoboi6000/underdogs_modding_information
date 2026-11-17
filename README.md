@@ -1,12 +1,12 @@
 this is a GitHub repository compiling all of the information that i have learned about underdogs and how to use the tools that i used
 
-if you have any information that you would like to add to this then please make an issue on the github page. there is prob a better way to do this but i dont know how 
+if you have any information that you would like to add to this then please make an issue on the github page. there is prob a better way to do this but i dont know how
 
 all image credits go to their respective owners (pls dont sue me)
 
 1. ### tools
 
-unity explorer fork https://github.com/yukieiji/UnityExplorer
+unity explorer fork https://github.com/yukieiji/UnityExplorer (sadly with the new episode 2 update this tool has broken)
 
 asset ripper https://github.com/assetripper/assetripper
 
@@ -18,11 +18,11 @@ warning these forks that i have found are not the best ones out there i do not k
 
 
 
-### 2\. information 
+### 2\. information
 
 ### 2.1 customization system
 
-#### 2.1.1 stencil system 
+#### 2.1.1 stencil system
 
 all stencils are made up of many full r g or b values (see image)
 https://imgur.com/a/ePy89AU
@@ -31,7 +31,7 @@ https://imgur.com/a/ePy89AU
 
 all of the different icons for the different colors of bubles in the pimp your mech sections have different texture2d's
 
-the actual files that the game pulls from when rendering the bubble in game is green 
+the actual files that the game pulls from when rendering the bubble in game is green
 
 https://imgur.com/a/BHifbp2
 
@@ -39,7 +39,7 @@ https://imgur.com/a/BHifbp2
 
 all of the colors in the customization system are different material files. i dont know how to edit these
 
-the colors sometimes have shaders applied to them 
+the colors sometimes have shaders applied to them
 
 i presume the polish system is just a shader however have not verified this
 
@@ -55,7 +55,19 @@ you can delete the barriers of a cage and go into a match that is currently runn
 
 if you go through the entrance door of both cages in the twins map you can be in two fights at the same time
 
-i do not know how to spawn things. this is because i have little to no knowledge about the unity engine, take everything here with a large heaping of salt 
+i do not know how to spawn things. this is because i have little to no knowledge about the unity engine, take everything here with a large heaping of salt
 
 
+
+### 2.3 FMOD/SOUND
+
+this game uses the Fmod sound system for its audio and this can be exploited to have custom sounds
+
+### 2.3.1 Fmod bank tool
+
+this is a tool that lets you extract and compile the fmod .bank files
+
+i have tested a few things and i will (hopefully) update this GitHub page with a better way to categorize what .bank files hold what sound
+
+i have modified the games sounds before and i might make a mod to do this on someone else's copy of the game
 
